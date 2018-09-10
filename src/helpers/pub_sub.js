@@ -11,3 +11,5 @@ const PubSub = {
     document.addEventListener( channel, callback )
   }
 };
+
+module.exports = PubSub;
